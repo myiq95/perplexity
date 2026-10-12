@@ -1,0 +1,14 @@
+{
+  "name": "서재 — Premium Reader",
+  "short_name": "서재",
+  "description": "오프라인에서도 사용할 수 있는 프리미엄 독서 PWA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#0f1115",
+  "lang": "ko",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
